@@ -30,3 +30,4 @@ a room device with button, temp-, humidity- and motion-sensor, 3 pwm and a buzze
  *  16 [D0]: buzzer
  * ADC [A0]: motion
  
+https://paypal.me/Familienpapi 
